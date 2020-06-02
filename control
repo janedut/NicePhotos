@@ -1,0 +1,10 @@
+Package: com.aohuiliu.nicephotos
+Name: NicePhotos
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Skip delete confirmation and Enable unlimited zoom in. Support A12
+Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Author: AohuiLiu <x345242281@outlook.com>
+Section: Tweaks
